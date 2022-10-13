@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: Roboto;
-    src: url("fonts/Roboto.ttf");
+    src: url("/fonts/Roboto.ttf");
 }
 
 @font-face {
     font-family: Roboto;
-    src: url("fonts/Robotobold.ttf");
+    src: url("/fonts/Robotobold.ttf");
 }
 
 body {
