@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: Roboto;
-    src: url("../fonts/Roboto.ttf");
+    src: url("fonts/Roboto.ttf");
 }
 
 @font-face {
     font-family: Roboto;
-    src: url("../fonts/Robotobold.ttf");
+    src: url("fonts/Robotobold.ttf");
 }
 
 body {
@@ -68,7 +68,7 @@ body {
 
 
 .main {
-    background-image: url("../img/background.png");
+    background-image: url('../img/background.png');
     background-position: center;
     background-size: cover;
     padding: 104px 0 154px 0;
