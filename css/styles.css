@@ -68,7 +68,7 @@ body {
 
 
 .main {
-    background-image: url("img/background.png");
+    background-image: url("/img/background.png");
     background-position: center;
     background-size: cover;
     padding: 104px 0 154px 0;
